@@ -1,0 +1,81 @@
+.body{
+    width: 99%;
+    background-color: black;
+    background-image: url(Img/NetflixBg.jpg);
+    background-size: 100%;
+}
+
+.logo{
+    margin-left: 3%;
+}
+
+.footer{
+    margin-top: 494px;
+    background-color: aliceblue;
+}
+
+.div{
+    margin:auto;
+    background-color: black;
+    width: 300px;
+    padding-bottom: 15%;
+    padding-top: 15px;
+    margin-top: 1%;
+}
+
+.h2{
+    color: white;
+    margin-left: 45px;
+}
+
+.label{
+    margin-top: 1px;
+    margin-left: 50px;
+    border-radius: 5px;
+    width: 65%;
+    height: 30px;
+    margin-bottom: 10px;
+}
+.button:hover{
+    background-color: #980707;
+		transition: 0.5s ease;
+    
+    
+}
+.button{
+    text-align: center;
+    margin-top: 15px;
+    margin-left: 50px;
+    border-radius: 5px;
+    width: 68%;
+    height: 40px;
+    margin-bottom: 10px;
+    background-color: red;
+    color: white;
+    
+}
+
+.op2{
+    color:aliceblue;
+}
+.op2 a{
+   
+    margin-left: 150px;
+}
+.transpa{
+    
+    width: 85%;
+		background-color: rgba(0, 0, 0, 0.63);
+		border-radius: 0.7em;
+		margin: 0 auto;
+		text-align: center;
+		margin-top: 100px;
+		box-shadow: -15px 22px 48px -17px rgba(255, 0, 0, 0.65);
+    color: white;
+    
+        }
+.transpa a{
+    margin-left: 20px;
+   font-size: 20px
+    
+}
